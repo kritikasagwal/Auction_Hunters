@@ -1,0 +1,14 @@
+.Navbar{
+    height: 70px;
+    width: 100%;
+    padding-top: 10px;
+    padding-left: 5%;
+    font-style: italic;
+    background-color: black;
+    color: goldenrod;
+    display: flex;
+}
+.LoginName{
+    padding-left: 60%;
+    color: white;
+}
